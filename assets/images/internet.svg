@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 104" width="112" height="104">
+	<title>ACCOUNT</title>
+	<defs>
+		<image width="29" height="27" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAbCAYAAACAyoQSAAAB+UlEQVRIS9WWPUgCYRjH/6/0RRg5BA0FBTVYRjS4FEEdZWuH4KbVGEFUEjQUpNBQFGJTjUJu9nGuFpxDg1BLYdTgUFCRm2CE9nXxXqdUpt5rSvVMd9zzPL/n/9zzfhD8ghHK5MemdXjRLELCGABdieqIgcAjbLlm3qHWGTdApkoE+5rWqUDtMQC1gtclv5fCLJbFiqfKeBISLlNQiYIolLfaH5Tn6mzPhRbFW+0y529AC1WhJu5bpWoCf+BDWyt39lN7f5CQKTTjnzJFMzpnHSTGPEzu/ws61CbykgZ09+pXZAbJK9YD55yQT3ZBSk0G0QNg9LvkhMAZCHOOXGBmqKJw72vSnoE6zC7pYe4+hETAHYS5YDYwM9TULgZB0Nei1yJ6k8B9/BnamjJsbBtxehzD6vwFXX/+wBnHFw9qEOV9cy/Ui4Bwh43lCGwTzTCPNMJmCslFUNs/47IeGuxKFajZ1ojxuVasLVzIbd1ciWB36zotrrhQpb00+5qnC51GHaK3CdiGQmlg0dv7cZDqG6qwuWOEYzKMkyN6FL9b0QeJJjUZRDcgr9EMK8mSSVEGO8R+jYRpCRhWTgz/K4E711JJxTIPUr7dRs33PwGVL2blyZpKn8/5qKZqVp/0xQy4+r0rKK2at9rpZk0v202sKlT6XwHwCF6X4w1sIR6lvPGWIgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ACCOUNT">
+		<g id="CONTENT">
+			<g id="TRANSACTIONS">
+				<g id="HISTORY">
+					<g id="#1">
+						<use id="ICON" href="#img1" transform="matrix(4,0,0,4,-4,-4)"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

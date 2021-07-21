@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+	<title>ACCOUNT</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="ACCOUNT">
+		<g id="TOP">
+			<g id="TITTLE">
+				<path id="NAV" class="shp0" d="M84 44L44 44C41.79 44 40 45.79 40 48C40 50.21 41.79 52 44 52L84 52C86.21 52 88 50.21 88 48C88 45.79 86.21 44 84 44ZM84 4L12 4C9.79 4 8 5.79 8 8C8 10.21 9.79 12 12 12L84 12C86.21 12 88 10.21 88 8C88 5.79 86.21 4 84 4Z" />
+			</g>
+		</g>
+	</g>
+</svg>

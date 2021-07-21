@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 76" width="28" height="76">
+	<title>ACCOUNT</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="ACCOUNT">
+		<g id="CONTENT">
+			<g id="STATS">
+				<g id="BALANCE">
+					<g id="TXT">
+						<path id="BULLETS" class="shp0" d="M14 52C17.31 52 20 54.69 20 58C20 61.31 17.31 64 14 64C10.69 64 8 61.31 8 58C8 54.69 10.69 52 14 52ZM14 28C17.31 28 20 30.69 20 34C20 37.31 17.31 40 14 40C10.69 40 8 37.31 8 34C8 30.69 10.69 28 14 28ZM14 4C17.31 4 20 6.69 20 10C20 13.31 17.31 16 14 16C10.69 16 8 13.31 8 10C8 6.69 10.69 4 14 4Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

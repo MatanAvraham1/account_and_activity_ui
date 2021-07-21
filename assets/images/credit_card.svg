@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 96" width="120" height="96">
+	<title>ACCOUNT</title>
+	<defs>
+		<image width="31" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAZCAYAAADJ9/UkAAAA00lEQVRIS2NkGEDACLVbgIGBQYeBgYGFTm75w8DAcAVmuQ0dLYb57wfMcgc6+RjFmhFu+f////8PWLAPqOUMDAyjCY6uUT/Cs9pogoOltkmTJhlkZmY2s7Cw8IDE/vz582X69Om1eXl5F6iZIrEmuN+/f29hYWHhRrbo+/fvL7i4uCJpbvn////3Y7OEkZHRcXhbjiPYX3JxcUXQ3OegBJeSklLByckpDrLs+/fvL+fMmdNBlwRHTd/hM2tQFK8D2oAENZ01GBgYOOgU5D8YGBhuAABC4UMi9OshvQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ACCOUNT">
+		<g id="CONTENT">
+			<g id="NAV">
+				<g id="ICONS">
+					<use id="CREDIT CARD" href="#img1" transform="matrix(4,0,0,4,-4,-4)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

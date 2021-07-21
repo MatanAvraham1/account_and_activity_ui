@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 64" width="112" height="64">
+	<title>ACTIVITY</title>
+	<defs>
+		<image width="31" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAATCAYAAABobNZCAAABtUlEQVRIS8VVS04CQRB9xczwiRjGRBMSVHDrQsVkCK5k40YX0icQTyCegCvACdQTiDeAnZOwwBOoK01wB4kLQsr0fAwDRHuUZHo586peV/WrV4QID0XIjYXkb+VyQZ9MrgBUABzICxLwAqDDzHcbvV5n+tJ8X64AfOHhC96/vsQD1CLxKGPnzhz5h2U1GZDEP52OPh4Ls5E0Ab7xSH/CN0nY17OAAPmgVGqD+VzlKfQshmYtBsSwqoIH0CZhi2nsN7lixU4sxYGVE4KRo09tHSlFcglrkbDrPt4h9974WTWJkScY20AsAyT3wmqWdnwNOJFhqpZ4PQeQ7pImixgldimtevHp6p0MA8uSytxXSaCtAemzWABqbGIY4u37JOyiN0EOOasQS4yWARIzrU4d0TvpyKrmIGE7RfuVR0oeru2nQZEZWxSm7U8kbN+4/ig4zW1y8pD+J7hIRy3suC3VZHyVhrNXGpmXJCWrOuMPJOzqQnv1PyoaTlcfj6tmQ0bF2wAd/zJmAVsN2OtsoNSAMZnU2V2nbmKiV2buEPPt4pWKGsByBefdfNwFqA9QU3mlqhrFMnBfY0eRFLFwZ6EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ACTIVITY">
+		<g id="CONTENT">
+			<g id="GRAPHIC">
+				<g id="ADD CARD">
+					<g id="MASTERCARD">
+						<use id="ORANGE" href="#img1" transform="matrix(4,0,0,4,-4,-8)"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

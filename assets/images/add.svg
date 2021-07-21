@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+	<title>ACTIVITY</title>
+	<defs>
+		<image width="53" height="53" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ACTIVITY">
+		<g id="CONTENT">
+			<g id="NAV">
+				<g id="PLUS">
+					<use id="+" href="#img1" transform="matrix(4,0,0,4,-8,-8)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

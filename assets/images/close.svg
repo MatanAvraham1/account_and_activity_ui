@@ -1,0 +1,22 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+	<title>ACTIVITY</title>
+	<defs>
+		<image width="23" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAB0ElEQVRIS72VMW4CMRBF/zYUCCEEEoIqpPFUCHKCUNGBkhOEGwROEnKChBMEQUfFEYKo7GppQEICIYQoaByNtbsxC2QpsliyVmuP34y/PWMHMTYnRjYi4Uqpltb6EUDV6xzPt9fHRNS7FOBFuJTyCcAbgFLE7lwAHSLqh+3OwpVSXa31Kxun02kkk0nztdt2u8V+vwd/uTmO0xVCdGybE7gPTqVSBprJZP4MfLPZGCe73Y4dvAsh2v6CI7gnxReDi8UiG1913lprLBYL4wDAsy9RGM763eXz+ciIw155B8vlkoddIro3UvlG3q34YG0LhUKwdjqdmqhqtRoSiYQZPxwOGI/HZnflcjmwnc/nR9EHcCnlJ4AXBtuHNxqN4LoucrkcGo2GAQ2HQ6xWK5RKJdTr9QBuRd8jopYN57tbEUIc7Zij9GHZbNbMrdfrwJm/G0sBkwdE9GDDNY+G4b4Mg8HAQLmxk2azGchkR6OUMr9E9HsdpJSxwv9TlgkRVW9zoLFeRT4EKeV/JNGMiEyxu136s7fYCpeVCEHJvVQd7WpoJAhVxBNZ7GTwKmSXC1lEaZwBaF/9WJxxwq8SP3MVb27iPXP9c1B//XUFOyL0S9M/OiE9Jz5fyUMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ACTIVITY">
+		<g id="CONTENT">
+			<g id="GRAPHIC">
+				<g id="CURVES">
+					<g id="LEGENDS">
+						<g id="TOOLTIP">
+							<use id="CROSS" href="#img1" transform="matrix(4,0,0,4,-8,-8)"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

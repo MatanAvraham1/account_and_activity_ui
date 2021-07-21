@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" width="88" height="88">
+	<title>ACTIVITY</title>
+	<defs>
+		<image width="25" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAABuklEQVRIS72Wv0oDQRCHv/UfFoIpRCwsLDURTMDCwiILxlrfwDfQN/IRtBRTbAoLC4sIRsVGCxERCwsLIerJL+zJJd6dm0AyMCRcdueb2fntXAwjMDMCBiGQCWDO+zQw4xN7Bz6AV++fWQnnQRR80bu+55kAj97/wLIgynjVZ61NyvYNeO4hLQAFX6USUXVNoAuUBtHiDUCfT8BdYN+KwLwHnCdBvRAFLvsKXoDrQEC8LAZ1VdQLWQLkgwB6QQ+AvEtd8THp+VleBbWi28OwX2/ZSsa6Tf+8c2zJStTEZd/c2yzI9orbicY4Ai7rLaujTTPFUTzFeU5CpCbdh84PaTtrRVfG4Igw7SmWGk0rxaVZnLBUeZWErPuGN9J2VcuuMNnmXgCgWr+2kmqeVb2kL5IQPZSlQmolp6Br5pvd0xt7HKC633j9QKSUWSJsQBXKIRWSe1ydfqhKQzT+ReXk1nbkmWOpx/Vv47dWXdVEOI2O9iR2kMYHSdjfkUNVVW9Z26+Egy/jVskdGNjLuSeZl1FJDX2sCDKSARmD4lHfz6AMHvVxH5MVDeWllQQN9fWbVOZQ/0gEjKewJT/eMJgasm0wQAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ACTIVITY">
+		<g id="TOP">
+			<g id="ICONS">
+				<use id="ARROW BACK" href="#img1" transform="matrix(4,0,0,4,-8,-8)"/>
+			</g>
+		</g>
+	</g>
+</svg>

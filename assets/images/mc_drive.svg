@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 80" width="112" height="80">
+	<title>ACCOUNT</title>
+	<defs>
+		<image width="29" height="21" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAVCAYAAAC6wOViAAABqUlEQVRIS8WWMUzCQBSGv4oYY0J0URwxddcRJmFwcgWjEzA7qIuruLqIg7M4aYTZxQGYYNTdRld1kRAXldS8epcUpFVIlbf0kl7fd/3f3f/OYARh+DCXgSyQBGQ8SNwANeAMkHFX9IPOAEdAbhCKz9wSsAu86Dm9UAFW1Z/JCq+BvSHhh8CqK1dKg3uhAloCLoDNIWG9n50DG0puAeOGFoB94ApYCwio02jwAVDQUJH1Xs2IAm8BQyeAR5VzQUNl05wCUvR8wECdTvILJ+9Ax0OR6kennVyc22I2Iick+Hhu17h7OhFWzYGGQ9Ov753WVMIsB09zZWxYGSbD8y0tr63e+ZlFEAtyOKOD/q+80S95R7KR1Fb+8cgkzLJTExsj17TSYubEzUp2DJI2dqphZWI+he8+MoCYw4OTDzzNIWFWimBv909sHDes9I4HVJuDKBsb2Abj5mXOwJBDvqIAdRu71LTWxVi8oq8N6sl/afh11Zu7DF/AIrM0X+k0Qba2WwV0eqpXEy+qW0MQhiAbTmrt2cTdELmiSO3kqev320WIlKKU1PnbdeUTaZ17w8vEx2cAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ACCOUNT">
+		<g id="CONTENT">
+			<g id="TRANSACTIONS">
+				<g id="HISTORY">
+					<g id="#2 HOVER">
+						<use id="ICON" href="#img1" transform="matrix(4,0,0,4,-4,-4)"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

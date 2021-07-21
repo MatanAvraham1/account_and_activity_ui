@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+	<title>ACTIVITY</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="ACTIVITY">
+		<g id="CONTENT">
+			<g id="CALENDAR">
+				<g id="03 TUE HOVER">
+					<path id="BELL" class="shp0" d="M68.55 49.23C60.76 41.85 58.16 36 58.16 28.62L58.16 26.15C58.16 18.35 51.5 10.12 44 8L44 8C44 5.28 42.87 4 40 4C37.13 4 36 5.28 36 8L36 8C28.5 10.12 21.83 18.35 21.83 26.15L21.83 28.62C21.83 36 19.24 41.85 11.45 49.23C3.67 56.62 12 56 12 56L40 56L68 56C68 56 76.33 56.62 68.55 49.23ZM36 68L44 68C46.87 68 48 62.72 48 60L32 60C32 62.72 33.13 68 36 68Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

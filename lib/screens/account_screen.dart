@@ -90,7 +90,7 @@ class _AccountScreenState extends State<AccountScreen> {
                             fontSize: 12.sp,
                             letterSpacing: 0.5,
                             color: Colors.black,
-                            fontWeight: FontWeight.w300,
+                            fontWeight: FontWeight.w400,
                           ),
                         ),
                       ),
@@ -105,7 +105,7 @@ class _AccountScreenState extends State<AccountScreen> {
                             fontSize: 12.sp,
                             letterSpacing: 0.5,
                             color: Colors.black,
-                            fontWeight: FontWeight.w300,
+                            fontWeight: FontWeight.w400,
                           ),
                         ),
                       ),
@@ -123,13 +123,13 @@ class _AccountScreenState extends State<AccountScreen> {
               "#512684",
               "-58",
               SvgPicture.asset("assets/images/internet.svg",
-                  width: 27.w, height: 29.h)),
+                  width: 29.w, height: 29.h)),
           buildSpentTypeTile(
               "Market",
               "#512685",
               "-9,56",
               SvgPicture.asset("assets/images/mc_drive.svg",
-                  width: 21.w, height: 26.h),
+                  width: 26.w, height: 26.h),
               Color(0xff462bbf),
               FontWeight.w900),
           Divider(
@@ -141,7 +141,7 @@ class _AccountScreenState extends State<AccountScreen> {
               "-22",
               SvgPicture.asset(
                 "assets/images/cart.svg",
-                width: 27.w,
+                width: 29.w,
                 height: 29.h,
               )),
         ],
@@ -154,6 +154,12 @@ class _AccountScreenState extends State<AccountScreen> {
       [Color color = Colors.black,
       FontWeight subTitleFontWeight = FontWeight.w300]) {
     return ListTile(
+      contentPadding: EdgeInsets.symmetric(horizontal: 16.w), // Check
+      horizontalTitleGap: 16.w,
+      minLeadingWidth: 40.w,
+      minVerticalPadding: 16.h,
+      
+
       leading: icon,
       title: Text(
         title,
@@ -219,8 +225,9 @@ class _AccountScreenState extends State<AccountScreen> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Padding(
-                      padding: EdgeInsets.only(top: 23, left: 21),
+                      padding: EdgeInsets.only(top: 23.h, left: 21.w),
                       child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Text(
                             "Balance",
@@ -231,11 +238,11 @@ class _AccountScreenState extends State<AccountScreen> {
                               fontWeight: FontWeight.bold,
                             ),
                           ),
-                          SizedBox(
-                            width: 52.w,
+                          Padding(
+                            padding: EdgeInsets.only(right: 15.w),
+                            child: SvgPicture.asset("assets/images/dots_vertical.svg",
+                                width: 17.w, height: 17.h, color: Colors.white),
                           ),
-                          SvgPicture.asset("assets/images/dots_vertical.svg",
-                              width: 4.w, height: 16.h, color: Colors.white),
                         ],
                       ),
                     ),
@@ -270,17 +277,17 @@ class _AccountScreenState extends State<AccountScreen> {
                         children: [
                           SvgPicture.asset(
                             "assets/images/visa.svg",
-                            width: 30.w,
-                            height: 8.h,
+                            width: 16.w,
+                            height: 16.h,
                             color: Colors.white,
                           ),
                           SvgPicture.asset("assets/images/arrow_down_2.svg",
-                              width: 4.w, height: 7.h),
+                              width: 9.w, height: 9.h),
                           SizedBox(width: 25.w),
                           Text(
                             "Dec, 02th",
                             style: GoogleFonts.lato(
-                              fontSize: 9.sp,
+                              fontSize: 11.sp,
                               letterSpacing: 0.5,
                               color: Color(0xff9e95d2),
                             ),
@@ -295,6 +302,7 @@ class _AccountScreenState extends State<AccountScreen> {
                 "assets/images/wave.png",
                 width: 180.w,
                 height: 84.h,
+                fit: BoxFit.fill,
               )
             ],
           ),
@@ -317,12 +325,12 @@ class _AccountScreenState extends State<AccountScreen> {
                     padding: EdgeInsets.only(left: 20.w, top: 23.h),
                     child: Row(children: [
                       SvgPicture.asset("assets/images/arrow_up.svg",
-                          color: Colors.white, width: 11.w, height: 10.h),
+                          color: Colors.white, width: 14.w, height: 14.h),
                       SizedBox(width: 10.w),
                       Text(
                         "Income",
                         style: GoogleFonts.lato(
-                            fontSize: 14,
+                            fontSize: 14.sp,
                             letterSpacing: 0.5,
                             color: Colors.white,
                             fontWeight: FontWeight.w800),
@@ -354,12 +362,12 @@ class _AccountScreenState extends State<AccountScreen> {
                     child: Row(
                       children: [
                         SvgPicture.asset("assets/images/clock.svg",
-                            color: Colors.white, width: 12.w, height: 12.h),
+                            color: Colors.white, width: 15.w, height: 15.h),
                         SizedBox(width: 7.w),
                         Text(
                           "50 %",
                           style: GoogleFonts.lato(
-                            fontSize: 9.sp,
+                            fontSize: 12.sp,
                             color: Colors.white,
                             fontWeight: FontWeight.w800,
                           ),
@@ -402,12 +410,12 @@ class _AccountScreenState extends State<AccountScreen> {
                     padding: EdgeInsets.only(left: 20.w, top: 23.h),
                     child: Row(children: [
                       SvgPicture.asset("assets/images/arrow_down.svg",
-                          width: 11.w, height: 10.h, color: Colors.white),
+                          width: 14.w, height: 14.h, color: Colors.white),
                       SizedBox(width: 10.w),
                       Text(
                         "Spend",
                         style: GoogleFonts.lato(
-                            fontSize: 14,
+                            fontSize: 14.sp,
                             letterSpacing: 0.5,
                             color: Colors.white,
                             fontWeight: FontWeight.w800),
@@ -487,8 +495,8 @@ class _AccountScreenState extends State<AccountScreen> {
                     ),
                     SvgPicture.asset(
                       "assets/images/arrow_back.svg",
-                      width: 23.w,
-                      height: 23.h,
+                      width: 27.w,
+                      height: 27.h,
                     ),
                   ],
                 ),
@@ -514,7 +522,7 @@ class _AccountScreenState extends State<AccountScreen> {
                         letterSpacing: 0.5,
                       ),
                     ),
-                    SizedBox(width: 75.w),
+                    SizedBox(width: 79.w),
                     SvgPicture.asset("assets/images/search.svg",
                         color: Colors.white, width: 15.w, height: 15.h),
                   ],
@@ -558,8 +566,8 @@ class _AccountScreenState extends State<AccountScreen> {
               ),
               SvgPicture.asset(
                 "assets/images/circle_user.svg",
-                width: 34.w,
-                height: 34.h,
+                width: 45.w,
+                height: 45.h,
                 fit: BoxFit.fill,
               ),
             ],

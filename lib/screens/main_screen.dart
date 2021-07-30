@@ -76,8 +76,8 @@ class _MainScreenState extends State<MainScreen> {
           BottomNavigationBarItem(
               icon: SvgPicture.asset(
                 "assets/images/add.svg",
-                width: 24.w,
-                height: 24.h,
+                width: 50.w,
+                height: 50.h,
               ),
               label: "Plus")
         ],

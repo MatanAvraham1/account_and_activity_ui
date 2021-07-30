@@ -158,7 +158,7 @@ class _AccountScreenState extends State<AccountScreen> {
       horizontalTitleGap: 16.w,
       minLeadingWidth: 40.w,
       minVerticalPadding: 16.h,
-      
+
 
       leading: icon,
       title: Text(
@@ -380,10 +380,13 @@ class _AccountScreenState extends State<AccountScreen> {
                     child: Container(
                       height: 8.h,
                       width: 80.w,
-                      child: LinearProgressIndicator(
-                        value: 0.45,
-                        backgroundColor: Colors.white38,
-                        color: Colors.white,
+                      child: ClipRRect(
+                        borderRadius: BorderRadius.circular(8.r),
+                        child: LinearProgressIndicator(
+                          value: 0.45,
+                          backgroundColor: Colors.white38,
+                          color: Colors.white,
+                        ),
                       ),
                     ),
                   ),
